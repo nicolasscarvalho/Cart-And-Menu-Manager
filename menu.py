@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List
-from sections import Sections
+from section import Section
 
 @dataclass
 class Menu:
-    menu_sections: List[Sections]
+    menu_sections: List[Section]

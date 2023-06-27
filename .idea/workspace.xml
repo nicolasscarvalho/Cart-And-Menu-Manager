@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ada74865-568d-4df8-b081-361b7eb9f048" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/interface_adapter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restaurant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_cases/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/section.py" beforeDir="false" afterPath="$PROJECT_DIR$/section.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_dapter/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_dapter/process_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/process_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_dapter/show_ouput.py" beforeDir="false" afterPath="$PROJECT_DIR$/show_ouput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_cases/restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RliTth9dHek42d1r0idJb28L6F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/Nícolas Carvalho/IFCE/Projetos/Cart-And-Menu-Manager/main.py"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\Desktop\Nícolas Carvalho\IFCE\Projetos\Cart-And-Menu-Manager" />
+      <recent name="C:\Users\Usuario\Desktop\Nícolas Carvalho\IFCE\Projetos\Cart-And-Menu-Manager\use_cases" />
+      <recent name="C:\Users\Usuario\Desktop\Nícolas Carvalho\IFCE\Projetos\Cart-And-Menu-Manager\interface_adapter" />
+      <recent name="C:\Users\Usuario\Desktop\Nícolas Carvalho\IFCE\Projetos\Cart-And-Menu-Manager\entities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Projeto atual " type="PythonConfigurationType" factoryName="Python">
+      <module name="Cart-And-Menu-Manager" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps\python3.10.exe" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada74865-568d-4df8-b081-361b7eb9f048" name="Changes" comment="" />
+      <created>1687831098345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687831098345</updated>
+    </task>
+    <servers />
+  </component>
+</project>

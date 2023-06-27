@@ -1,6 +1,8 @@
-from entities.menu import Menu
+from menu import Menu
+from cart import Cart
+from abc import ABC, abstractmethod
 
-class ProcessInput:
+class ProcessData(ABC):
 
     def __init__(self):
         pass
@@ -8,11 +10,12 @@ class ProcessInput:
 
 
 
-    def get_cart(self, menu: Menu):
+    @abstractmethod
+    def get_cart(menu: Menu):
         
         cart = []
 
-        for section in menu:
+        for section in menu.menu_sections:
             for food_item in section.food_items:
                 cart.append(food_item)
 
@@ -21,7 +24,8 @@ class ProcessInput:
 
 
 
-    def get_total_price(self, cart):
+    @abstractmethod
+    def get_total_price(cart: Cart):
 
         total_price = 0
 
